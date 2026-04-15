@@ -1,0 +1,12 @@
+Compiled release for ComfyUI Huahai ZIP node
+Python: 3.11.9
+Platform: win-amd64
+Extension: huahai_zip_nodes.cp311-win_amd64.pyd
+
+Install:
+1. Unzip this package under ComfyUI/custom_nodes/
+2. Keep __init__.py and the .pyd file in the same folder
+3. Restart ComfyUI
+
+Note: .pyd is a compiled Windows Python extension. It raises the reverse-engineering bar,
+but it is not absolute encryption.
